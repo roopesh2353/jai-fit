@@ -1,0 +1,2 @@
+class KnaOne < ApplicationRecord
+end
